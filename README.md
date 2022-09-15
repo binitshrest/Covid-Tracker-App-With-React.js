@@ -1,7 +1,5 @@
 # Covid-19-tracker is an app made with ReactJS which helps to keep track of Corona virus diseases around the world.
 
-Project Live Link : https://rauniyarbsal.github.io/Covid-19-Tracker-using-React-JS/
-
 In the project directory, you can run:
 
 ### `npm start` or `yarn start`
